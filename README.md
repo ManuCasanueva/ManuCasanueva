@@ -1,10 +1,12 @@
-## Hello, I'm Manuel Casanueva!    
+  
 
 <div align="center">
 <img src="https://camo.githubusercontent.com/91c0c50639feb83c9675e648e989b35117171876f126c3af52a522f266f1aeb7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966" align="center" style="width: 100%" />
 </div>  
-
-
+<div align="center">
+ ## Hello, I'm Manuel Casanueva!  
+</div>
+  
 ### <div align="center">My name is Manuel, my age is 23 and i'm a full-stack developer. I love to learn  new technologies and getting better in the ones that i'm already knew, I allways want to help other people if they have issues and i'm really open about opinions about what things i can change about myself. .</div>  
 
 ## My Skill Set  

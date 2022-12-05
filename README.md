@@ -5,7 +5,7 @@
 </div>  
 
 
-### <div align="center">I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.</div>  
+### <div align="center">My name is Manuel, my age is 23 and i'm a full-stack developer. I love to learn  new technologies and getting better in the ones that i'm already knew, I allways want to help other people if they have issues and i'm really open about opinions about what things i can change about myself. .</div>  
 
 ## My Skill Set  
 <tr><td valign="top" width="100%" align="center">

@@ -1,9 +1,9 @@
-## Hey 👋, I'm Manuel Casanueva!  
+
 
 <div align="center">
 <img src="https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg" align="center" style="width: 100%" />
 </div>  
-  
+## Hello, I'm Manuel Casanueva!    
 
 ### <div align="center">I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.</div>  
 
